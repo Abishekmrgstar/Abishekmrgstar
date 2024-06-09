@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🫡, I'm Abishek Arun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI AND MACHINE LEARNING ENGINEER from India</h3>
 
 - 🔭 I have worked on Project [HERBEASE](https://github.com/Abishekmrgstar/HERBEASE)
 
