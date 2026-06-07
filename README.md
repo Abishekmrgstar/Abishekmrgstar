@@ -125,11 +125,91 @@ Currently Learning:
 
 ---
 
-# 🛠️ TECH STACK
+# ⚡ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,react,nodejs,django,mysql,postgresql,docker,aws,linux,pytorch,tensorflow,opencv,flutter,figma,git,github&perline=7" />
+### 🤖 AI • LLMOps • Agentic Systems
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+
+<br>
+
+`LangChain` • `LangGraph` • `CrewAI` • `LlamaIndex` • `RAG`
+
+`Prompt Engineering` • `MCP` • `Agentic AI`
+
+---
+
+### ☁️ Cloud • DevOps • Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,jenkins,linux,bash&theme=dark" />
+
+<br>
+
+`AWS` • `Terraform` • `Docker` • `Kubernetes`
+
+`GitHub Actions` • `Jenkins` • `CI/CD`
+
+---
+
+### ⚙️ Backend • APIs • Data Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,html,css,js&theme=dark" />
+
+<br>
+
+`FastAPI` • `Flask` • `Django`
+
+`REST APIs` • `Airflow DAGs`
+
+---
+
+### 🗄️ Databases • Vector Stores
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+<br>
+
+`Neo4j` • `FAISS` • `Pinecone`
+
+`ChromaDB` • `Vector Search`
+
+---
+
+### 👁️ Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+
+<br>
+
+`YOLO` • `OpenCV`
+
+`Object Detection` • `Image Processing`
+
+---
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,rust,js&theme=dark" />
+
+<br>
+
+`Python` • `C` • `C++`
+
+`Rust (Basics)` • `JavaScript`
+
+---
+
+### 🛠️ Developer Toolkit
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powershell&theme=dark" />
+
+<br>
+
+`Git` • `GitHub` • `VS Code`
+
+`PowerShell` • `Shell Scripting`
 
 </div>
 
